@@ -1,0 +1,9 @@
+{
+  "name": "tablo",
+  "private": true,
+  "dependencies": {
+    "id3": "https://github.com/gbiryukov/id3.git#1.1.4"
+  },
+  "devDependencies": {
+  }
+}
